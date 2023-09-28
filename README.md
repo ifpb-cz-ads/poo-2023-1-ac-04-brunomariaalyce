@@ -29,6 +29,13 @@ O método maindeve ser declarado como estático (static) para que possa ser cham
 
 ## BM EXERCÍCIO 10
 
+Assinatura do métodomaior(): O método maior() é declarado como retornando um int, mas na verdade, ele está tentando retornar um valor booleano.
+
+Falta de um construtor : Embora não seja um erro obrigatório, é uma boa prática adicionar um construtor à sua classe para inicializar os campos num1 e num2.
+
+Nomes de variáveis ​​não descritivos: Os nomes de variáveis num1 ​​e num2 não são muito descritivos.
+
+
 # Livro Batista e Moraes (pag.78)
 
 1 - marca, preco, potencia, ligada.
